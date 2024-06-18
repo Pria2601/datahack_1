@@ -9,6 +9,8 @@ then i used multi output classifier model.
 finally...
 this time it worked:)
 
+PCA was not working on my kernel in vir envirnment for some absurd reason .. which i am yet to debug..
+
 although result is not exceptionally good.(roc_auc = 0.57)
 but it is more than random guessing ;)
 i didnt get enough time as i was engaged somewhere else..
